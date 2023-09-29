@@ -1,7 +1,7 @@
-⭐️ Course Contents ⭐️
-⌨️ (0:00) Introduction
-⌨️ (1:18) What is Deep Learning
-⌨️ (5:25) Introduction to Neural Networks
+# ⭐️ Course Contents ⭐️
+- ⌨️ (0:00) Introduction
+- ⌨️ (1:18) What is Deep Learning
+- ⌨️ (5:25) Introduction to Neural Networks
 ⌨️ (6:12) How do Neural Networks LEARN?
 ⌨️ (12:06) Core terminologies used in Deep Learning
 ⌨️ (12:11) Activation Functions
